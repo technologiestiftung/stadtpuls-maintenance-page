@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Build%20with%20%E2%9D%A4%EF%B8%8F-at%20Technologiesitftung%20Berlin-blue)
+![](https://img.shields.io/badge/Built%20with%20%E2%9D%A4%EF%B8%8F-at%20Technologiestiftung%20Berlin-blue)
 
 # **Stadtpuls** maintenance page
 
@@ -19,7 +19,6 @@ This repo requires neither NodeJS nor a build tool. It is intentionally [_**vani
 It does, however, import some external CSS stylesheets and JavaScript scripts for convenience. Those are:
 
 - [**Tailwind Preflight**](https://tailwindcss.com/docs/preflight):<br />A CSS reset setup created by TailwindCSS build on top of [modern-normalize](https://github.com/sindresorhus/modern-normalize).
-
 
 ## Contributors
 
@@ -75,4 +74,3 @@ Texts and content available as [CC BY](https://creativecommons.org/licenses/by/3
     </td>
   </tr>
 </table>
-
